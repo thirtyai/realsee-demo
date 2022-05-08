@@ -9,8 +9,9 @@
 ### 如视结构
 
 1. five: 三维引擎
-2. vreo: 空间导览
-3. live: 直播带看
-4. jsbridge-x: android/ios/wechat native与如视前端交互模块
-5. VRWebView: native容器技术
-6. open-api: 开放api
+2. dnalogel: vr看房
+3. vreo: 空间导览
+4. live: 直播带看
+5. jsbridge-x: android/ios/wechat native与如视前端交互模块
+6. VRWebView: native容器技术
+7. open-api: 开放api
